@@ -101,8 +101,7 @@ public class AppointmentLecturerActivity extends AppCompatActivity {
                 //if the student dont have an appoinment
                 if(appointments == null){
                     displayToast("No appointment available");
-                    Intent intent = new Intent(context, NewAppointmentActivity.class);
-                    startActivity(intent);
+
 
                 }
                 else{
