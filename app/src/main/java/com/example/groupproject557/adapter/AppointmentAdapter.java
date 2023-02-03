@@ -67,7 +67,7 @@ public class AppointmentAdapter extends RecyclerView.Adapter<AppointmentAdapter.
 
     public void onBindViewHolder(AppointmentAdapter.ViewHolder holder, int position) {
         Appointment appointment = mListData.get(position);
-        holder.tvAppointmentDate.setText("Date     : " + appointment.getAppointmentDate());
+        holder.tvAppointmentDate.setText("Date     : " + appointment.getAppointmentDate().substring(0,10));
 
         String temp = String.valueOf(appointment.getLecturer_id());
         holder.tvLectName.setText("Lecturer ID: " + temp);

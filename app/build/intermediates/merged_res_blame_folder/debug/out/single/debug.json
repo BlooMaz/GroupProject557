@@ -12,6 +12,10 @@
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\side_nav_bar.xml"
     },
     {
+        "merged": "com.example.groupproject557.app-merged_res-40:/layout_activity_lect_list.xml.flat",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_lect_list.xml"
+    },
+    {
         "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_custome_list_back.xml.flat",
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\custome_list_back.xml"
     },
@@ -76,12 +80,12 @@
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\front_counsel.png"
     },
     {
-        "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_backmain.jpg.flat",
-        "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\backmain.jpg"
-    },
-    {
         "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\layout_activity_lect_list.xml.flat",
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\layout\\activity_lect_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_backmain.jpg.flat",
+        "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\backmain.jpg"
     },
     {
         "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_background.jpg.flat",
@@ -212,8 +216,16 @@
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable-v24_backgroundsss.jpg.flat",
+        "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable-v24\\backgroundsss.jpg"
+    },
+    {
         "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\layout_lect_list_items.xml.flat",
         "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\layout\\lect_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_background_list.xml.flat",
+        "source": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-main-42:\\drawable\\background_list.xml"
     },
     {
         "merged": "C:\\Users\\muhdm\\.gradle\\daemon\\7.4\\com.example.groupproject557.app-merged_res-40:\\drawable_ic_baseline_new.xml.flat",
